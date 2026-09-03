@@ -4,6 +4,7 @@
 Publier ce portfolio (site vitrine une page, statique) sur internet, gratuitement, avec une URL publique.
 
 ## Contenu du dossier
+- `og-cover.jpg` — image d'aperçu pour LinkedIn / réseaux (1200×630). **À déposer à la racine du dépôt, à côté de index.html**, elle est référencée par `https://tomhrlx.github.io/tom-harlaux-portfolio/og-cover.jpg`.
 - `index.html` — **le site complet, autonome** (1,4 Mo). Toutes les images, le CV (PDF) et le code sont inclus dans ce seul fichier. C'est le fichier à héberger. Il n'y a rien à compiler ni à installer.
 - `source/` — les fichiers sources (référence uniquement, non nécessaires au déploiement) :
   - `Portfolio Tom Harlaux.dc.html` — source du design
